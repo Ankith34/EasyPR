@@ -1,0 +1,44 @@
+[build-system]
+requires = ["hatchling>=1.27"]
+build-backend = "hatchling.build"
+
+[project]
+name = "easypr"
+dynamic = ["version"]
+description = "Your first PR starts here: a beginner-friendly MCP server that helps you understand a repository before your first open-source contribution."
+readme = "README.md"
+requires-python = ">=3.10"
+license = "MIT"
+license-files = ["LICENSE"]
+authors = [{ name = "Ankith" }]
+keywords = ["mcp", "model-context-protocol", "open-source", "beginners", "github", "first-pr"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+]
+dependencies = ["mcp>=2.2,<3"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[project.scripts]
+easypr = "easypr.server:main"
+
+[project.urls]
+Homepage = "https://github.com/Ankith34/EasyPR"
+Issues = "https://github.com/Ankith34/EasyPR/issues"
+
+[tool.hatch.version]
+path = "src/easypr/__init__.py"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/easypr"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
