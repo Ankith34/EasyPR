@@ -4,7 +4,7 @@
 
 ### Your first PR starts here.
 
-**A read-only [MCP](https://modelcontextprotocol.io) server that gives your AI assistant the evidence it needs to guide you through an unfamiliar repository, from "what is this project?" to "I'm ready to open a pull request."**
+**A read only [MCP](https://modelcontextprotocol.io) server that gives your AI assistant the evidence it needs to guide you through an unfamiliar repository, from "what is this project?" to "I'm ready to open a pull request."**
 
 [![CI](https://github.com/Ankith34/EasyPR/actions/workflows/ci.yml/badge.svg)](https://github.com/Ankith34/EasyPR/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
