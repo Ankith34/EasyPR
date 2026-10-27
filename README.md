@@ -12,8 +12,9 @@
 ![MCP](https://img.shields.io/badge/MCP-stdio%20server-8A2BE2)
 ![Tools](https://img.shields.io/badge/tools-3-informational)
 ![Status](https://img.shields.io/badge/status-alpha-orange)
+[![M8ven Score](https://m8ven.ai/badge/mcp/ankith34-easypr-1ad196?v=0a43c62fec96f660da6067e9a4a76ad8)](https://m8ven.ai/mcp/ankith34-easypr-1ad196?s=readme)
 
-[**Quick start**](#quick-start) · [**How it works**](#how-it-works) · [**Tools**](#tools) · [**Safety**](#safety-model) · [**Roadmap**](#status-and-roadmap) · [**FAQ**](#faq) · [**Contributing**](#contributing) · [![M8ven Score](https://m8ven.ai/badge/mcp/ankith34-easypr-1ad196?v=0a43c62fec96f660da6067e9a4a76ad8)](https://m8ven.ai/mcp/ankith34-easypr-1ad196?s=readme)
+[**Quick start**](#quick-start) · [**How it works**](#how-it-works) · [**Tools**](#tools) · [**Safety**](#safety-model) · [**Roadmap**](#status-and-roadmap) · [**FAQ**](#faq) · [**Contributing**](#contributing)
 
 ```bash
 git clone https://github.com/Ankith34/EasyPR.git && cd EasyPR && pip install -e .
