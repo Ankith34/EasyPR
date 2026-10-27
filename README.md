@@ -312,3 +312,5 @@ EasyPR is alpha software provided as is. Its detection is heuristic, its secret 
 ## License
 
 Released under the [MIT License](LICENSE). Copyright (c) 2026 Ankith.
+
+[![M8ven Score](https://m8ven.ai/badge/mcp/ankith34-easypr-1ad196?v=0a43c62fec96f660da6067e9a4a76ad8)](https://m8ven.ai/mcp/ankith34-easypr-1ad196?s=readme)
