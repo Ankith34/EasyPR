@@ -13,7 +13,7 @@
 ![Tools](https://img.shields.io/badge/tools-3-informational)
 ![Status](https://img.shields.io/badge/status-alpha-orange)
 
-[**Quick start**](#quick-start) · [**How it works**](#how-it-works) · [**Tools**](#tools) · [**Safety**](#safety-model) · [**Roadmap**](#status-and-roadmap) · [**FAQ**](#faq) · [**Contributing**](#contributing)
+[**Quick start**](#quick-start) · [**How it works**](#how-it-works) · [**Tools**](#tools) · [**Safety**](#safety-model) · [**Roadmap**](#status-and-roadmap) · [**FAQ**](#faq) · [**Contributing**](#contributing) · [![M8ven Score](https://m8ven.ai/badge/mcp/ankith34-easypr-1ad196?v=0a43c62fec96f660da6067e9a4a76ad8)](https://m8ven.ai/mcp/ankith34-easypr-1ad196?s=readme)
 
 ```bash
 git clone https://github.com/Ankith34/EasyPR.git && cd EasyPR && pip install -e .
@@ -313,4 +313,3 @@ EasyPR is alpha software provided as is. Its detection is heuristic, its secret 
 
 Released under the [MIT License](LICENSE). Copyright (c) 2026 Ankith.
 
-[![M8ven Score](https://m8ven.ai/badge/mcp/ankith34-easypr-1ad196?v=0a43c62fec96f660da6067e9a4a76ad8)](https://m8ven.ai/mcp/ankith34-easypr-1ad196?s=readme)
